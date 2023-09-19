@@ -1,10 +1,15 @@
 .corpo{
-  bagkground-color: coral
+  background-color: coral
 }
-.titulo[
-font-size:50px;color:white;background:red;text-aling:center;
+
+.titulo{
+font-size:50px;
+color:white;
+background:red;
+text-align:center;
 }
+
 .texto-imc{
   font-size:50px;
-  text-aling: center
+  text-align: center;
 }
