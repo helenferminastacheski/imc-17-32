@@ -1,15 +1,15 @@
-.corpo{
+.corpo {
   background-color: #ff7f50;
 }
 
-.titulo{
-font-size:50px;
-color:white;
-background:red;
-text-align:center;
+.titulo {
+  font-size: 50px;
+  color: white;
+  background: red;
+  text-align: center;
 }
 
-.texto-imc{
-  font-size:50px;
+.texto-imc {
+  font-size: 50px;
   text-align: center;
 }
